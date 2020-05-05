@@ -1,0 +1,5 @@
+Mettre ici des petites images pour récompenser l'enfant.
+
+J'ai mis des images de pokémon taille libre mais de préférence pas plus de 100 pixels
+
+Ils seront affichés à côté du résultat
